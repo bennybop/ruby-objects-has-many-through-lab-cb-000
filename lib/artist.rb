@@ -19,4 +19,4 @@ class Artist
     self.songs.collect {|song| song.genre}
   end
 end
-end 
+ 
