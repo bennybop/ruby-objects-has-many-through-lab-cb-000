@@ -18,4 +18,3 @@ class Genre
     self.songs.collect { |song| song.artist }
   end
 end
- 
